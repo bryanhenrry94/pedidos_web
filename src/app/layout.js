@@ -20,6 +20,16 @@ const menus = [
     name: "Confirmacion Mail",
     url: "sendMail/",
   },
+  {
+    id: 4,
+    name: "Login",
+    url: "login/",
+  },
+  {
+    id: 5,
+    name: "Account",
+    url: "account/",
+  },
 ];
 
 export const metadata = {
